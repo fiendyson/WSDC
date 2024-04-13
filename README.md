@@ -4,4 +4,4 @@ Get image.png provided in repo and place it on machine and replace the file loca
 image_path = "**_C:/YourFolderHere/image.png_**"
 
 
-If the image isn't a match with your slow button due to dark mode or an updatre etc, snipping tool a new image and place it in the folder instead.
+If the image isn't a match with your slow button due to dark mode or an update etc, snipping tool a new image and place it in the folder instead.
